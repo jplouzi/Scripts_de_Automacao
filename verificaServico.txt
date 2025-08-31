@@ -1,0 +1,6 @@
+[H[2J[3JServiço ssh está [0;31mINATIVO[0m ou com falha.
+Serviço apache2 está [0;31mINATIVO[0m ou com falha.
+Serviço cron está [0;32mATIVO[0m.
+Serviço snmp está [0;31mINATIVO[0m ou com falha.
+Serviço SMTP está [0;31mINATIVO[0m ou com falha.
+Serviço ftp está [0;31mINATIVO[0m ou com falha.

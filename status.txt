@@ -1,0 +1,33 @@
+[H[2J[3J=========================================
+      INICIANDO VERIFICAÇÃO DE REDE
+=========================================
+
+Verificando DNS do GOOGLE ($HOST1)
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=118 time=38.4 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=118 time=36.9 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=118 time=36.9 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2177ms
+rtt min/avg/max/mdev = 36.853/37.389/38.409/0.721 ms
+Verificando DNS do CLOUDFLARE ($HOST2)
+PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+64 bytes from 1.1.1.1: icmp_seq=1 ttl=59 time=65.7 ms
+64 bytes from 1.1.1.1: icmp_seq=2 ttl=59 time=36.5 ms
+64 bytes from 1.1.1.1: icmp_seq=3 ttl=59 time=37.9 ms
+
+--- 1.1.1.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2174ms
+rtt min/avg/max/mdev = 36.531/46.724/65.710/13.436 ms
+Verificando GATEWAY ($HOST_INTERNO)
+PING 192.168.15.1 (192.168.15.1) 56(84) bytes of data.
+64 bytes from 192.168.15.1: icmp_seq=1 ttl=63 time=0.494 ms
+64 bytes from 192.168.15.1: icmp_seq=2 ttl=63 time=0.549 ms
+64 bytes from 192.168.15.1: icmp_seq=3 ttl=63 time=0.554 ms
+
+--- 192.168.15.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2242ms
+rtt min/avg/max/mdev = 0.494/0.532/0.554/0.027 ms
+
+
