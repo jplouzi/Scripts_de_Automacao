@@ -8,8 +8,8 @@ DESTINO="/home/jplouzi/Backups"
 
 mkdir -p "$DESTINO"
 
-DATA_HORA=$(date =%Y-%m-%d_%H-%M-%S)
-NOME_ARQUIVO="backup-$DATA_HORA.tar.gz
+DATA_HORA=$(date +%Y-%m-%d_%H-%M-%S)
+NOME_ARQUIVO="backup-$DATA_HORA.tar.gz"
 
 ARQUIVO_FINAL="$DESTINO/$NOME_ARQUIVO"
 
