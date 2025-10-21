@@ -1,0 +1,550 @@
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 11:00:08 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:14   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15368 ?        S<s  10:14   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:14   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:14   0:00 /sbin/init
+root         193  0.0  0.0 1756096 12160 ?       Ssl  10:14   0:00 /usr/libexec/wsl-pro-service -vv
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:14   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:14   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:14   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:23   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:14   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:14   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:14   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:14   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:14   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:14   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 11:10:08 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:15   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15496 ?        S<s  10:15   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:15   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:15   0:00 /sbin/init
+root         193  0.0  0.0 1756096 12160 ?       Ssl  10:15   0:00 /usr/libexec/wsl-pro-service -vv
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:15   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:15   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:15   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:24   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:15   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:15   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:15   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:15   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:15   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:15   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 11:20:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:16   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15496 ?        S<s  10:16   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:16   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12288 ?       Ssl  10:16   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:16   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:16   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:16   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:16   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:25   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:16   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:16   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:16   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:16   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:16   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:16   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 11:30:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:17   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15496 ?        S<s  10:17   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:17   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12288 ?       Ssl  10:17   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:17   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:17   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:17   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:17   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:26   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:17   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:17   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:17   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:17   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:17   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:17   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 11:40:04 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:18   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15496 ?        S<s  10:18   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:18   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12416 ?       Ssl  10:18   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:18   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:18   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:18   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:18   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:27   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:18   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:18   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:18   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:18   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:18   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:18   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 11:50:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:19   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15496 ?        S<s  10:19   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:19   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12544 ?       Ssl  10:19   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:19   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:19   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:19   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:19   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:28   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:19   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:19   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:19   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:19   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:19   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:19   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 12:00:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:20   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15496 ?        S<s  10:20   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12544 ?       Ssl  10:20   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:20   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:20   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:29   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:20   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:20   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:20   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:20   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:20   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 12:10:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:20   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15624 ?        S<s  10:20   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12544 ?       Ssl  10:20   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:20   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:20   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:29   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:20   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:20   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:20   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:20   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:20   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:20   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 12:20:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:21   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15624 ?        S<s  10:21   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:21   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12544 ?       Ssl  10:21   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:21   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:21   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:21   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:21   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:30   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:21   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:21   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:21   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:21   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:21   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:21   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 12:30:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:22   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15624 ?        S<s  10:22   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:22   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12544 ?       Ssl  10:22   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:22   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:22   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:22   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:22   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:31   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:22   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:22   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:22   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:22   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:22   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:22   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 12:40:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:23   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15624 ?        S<s  10:23   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:23   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12544 ?       Ssl  10:23   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:23   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:23   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:23   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:23   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:32   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:23   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:23   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:23   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:23   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:23   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:23   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 12:50:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:24   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15752 ?        S<s  10:24   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:24   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12544 ?       Ssl  10:24   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:24   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:24   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:24   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:24   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:33   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:24   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:24   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:24   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:24   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:24   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:24   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 13:00:06 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:25   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15752 ?        S<s  10:25   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12672 ?       Ssl  10:25   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:25   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:25   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:34   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:25   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:25   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:25   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:25   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:25   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 13:10:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:25   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15752 ?        S<s  10:25   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12672 ?       Ssl  10:25   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:25   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:25   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:34   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:25   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:25   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:25   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:25   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:25   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:25   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 13:20:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:26   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15752 ?        S<s  10:26   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:26   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12672 ?       Ssl  10:26   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:26   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:26   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:26   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:26   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:35   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:26   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:26   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:26   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:26   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:26   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:26   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 13:30:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:27   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15752 ?        S<s  10:27   0:00 /usr/lib/systemd/systemd-journald
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:27   0:00 /usr/lib/systemd/systemd-resolved
+root         193  0.0  0.0 1756096 12800 ?       Ssl  10:27   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.0  21884 12280 ?        Ss   10:27   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:27   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:27   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:27   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:36   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:27   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:27   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:27   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:27   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:27   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:27   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 13:40:08 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:28   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15752 ?        S<s  10:28   0:00 /usr/lib/systemd/systemd-journald
+root         193  0.0  0.0 1756096 12928 ?       Ssl  10:28   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:28   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:28   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:28   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:28   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:28   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:37   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:28   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:28   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:28   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:28   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:28   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:28   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 13:50:08 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:29   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15880 ?        S<s  10:29   0:00 /usr/lib/systemd/systemd-journald
+root         193  0.0  0.0 1756096 12928 ?       Ssl  10:29   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:29   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:29   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:29   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:29   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:29   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:38   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:29   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:29   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:29   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:29   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:29   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:29   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 14:00:05 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:30   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15880 ?        S<s  10:30   0:00 /usr/lib/systemd/systemd-journald
+root         193  0.0  0.0 1756096 13184 ?       Ssl  10:30   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:30   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:30   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:30   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:30   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:30   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:39   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:30   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:30   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:30   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:30   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:30   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:30   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 14:10:08 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:31   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15880 ?        S<s  10:31   0:00 /usr/lib/systemd/systemd-journald
+root         193  0.0  0.0 1756096 13184 ?       Ssl  10:31   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:31   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:31   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:31   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:31   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:31   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:40   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:31   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:31   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:31   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:31   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:31   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:31   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 14:20:08 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:32   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66832 15880 ?        S<s  10:32   0:00 /usr/lib/systemd/systemd-journald
+root         193  0.0  0.0 1756096 13184 ?       Ssl  10:32   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:32   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:32   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:41   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:32   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:32   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:32   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:32   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:32   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:32   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 14:30:08 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         268  0.0  0.1 107028 22144 ?        Ssl  10:33   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.1  66832 16008 ?        S<s  10:33   0:00 /usr/lib/systemd/systemd-journald
+root         193  0.0  0.0 1756096 13440 ?       Ssl  10:33   0:00 /usr/libexec/wsl-pro-service -vv
+systemd+     159  0.0  0.0  21456 12800 ?        Ss   10:33   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21884 12280 ?        Ss   10:33   0:00 /sbin/init
+joab         476  0.0  0.0  20296 11264 ?        Ss   10:33   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.0  17964  8448 ?        Ss   10:33   0:00 /usr/lib/systemd/systemd-logind
+systemd+     160  0.0  0.0  91024  7680 ?        Ssl  10:33   0:00 /usr/lib/systemd/systemd-timesyncd
+polkitd      902  0.0  0.0 308164  7680 ?        Ssl  10:42   0:00 /usr/lib/polkit-1/polkitd --no-debug
+root         104  0.0  0.0  24876  6144 ?        Ss   10:33   0:00 /usr/lib/systemd/systemd-udevd
+syslog       213  0.0  0.0 222508  5376 ?        Ssl  10:33   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         384  0.0  0.0   6312  5376 pts/0    Ss+  10:33   0:00 -bash
+joab         487  0.0  0.0   6072  5120 pts/1    S+   10:33   0:00 -bash
+message+     171  0.0  0.0   9632  4864 ?        Ss   10:33   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         385  0.0  0.0   6820  4352 pts/1    Ss   10:33   0:00 /bin/login -f
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 19:40:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         238  0.0  0.1 107028 22656 ?        Ssl  19:37   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  50436 14916 ?        S<s  19:37   0:00 /usr/lib/systemd/systemd-journald
+systemd+     160  0.0  0.0  21456 12800 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.1  0.0  21764 12504 ?        Ss   19:37   0:00 /sbin/init
+root         183  0.0  0.0 1756096 12288 ?       Ssl  19:37   0:00 /usr/libexec/wsl-pro-service -vv
+joab         345  0.0  0.0  20296 11264 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd --user
+root         180  0.0  0.0  17964  8192 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd-logind
+systemd+     161  0.0  0.0  91024  7680 ?        Ssl  19:37   0:00 /usr/lib/systemd/systemd-timesyncd
+root         104  0.0  0.0  24876  6144 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd-udevd
+syslog       194  0.0  0.0 222508  5632 ?        Ssl  19:37   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         290  0.0  0.0   6204  5248 pts/0    Ss+  19:37   0:00 -bash
+joab         358  0.0  0.0   6072  5120 pts/1    S+   19:37   0:00 -bash
+message+     169  0.0  0.0   9632  4992 ?        Ss   19:37   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         291  0.0  0.0   6820  4608 pts/1    Ss   19:37   0:00 /bin/login -f
+www-data     197  0.0  0.0  12880  4276 ?        S    19:37   0:00 nginx: worker process
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 19:50:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         238  0.0  0.1 107028 22656 ?        Ssl  19:37   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66828 14916 ?        S<s  19:37   0:00 /usr/lib/systemd/systemd-journald
+systemd+     160  0.0  0.0  21456 12800 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21764 12504 ?        Ss   19:37   0:00 /sbin/init
+root         183  0.0  0.0 1756096 12288 ?       Ssl  19:37   0:00 /usr/libexec/wsl-pro-service -vv
+joab         345  0.0  0.0  20296 11264 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd --user
+root         180  0.0  0.0  17964  8192 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd-logind
+systemd+     161  0.0  0.0  91024  7680 ?        Ssl  19:37   0:00 /usr/lib/systemd/systemd-timesyncd
+root         104  0.0  0.0  24876  6144 ?        Ss   19:37   0:00 /usr/lib/systemd/systemd-udevd
+syslog       194  0.0  0.0 222508  5632 ?        Ssl  19:37   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         290  0.0  0.0   6204  5248 pts/0    Ss   19:37   0:00 -bash
+joab         358  0.0  0.0   6072  5120 pts/1    S+   19:37   0:00 -bash
+message+     169  0.0  0.0   9632  4992 ?        Ss   19:37   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         291  0.0  0.0   6820  4608 pts/1    Ss   19:37   0:00 /bin/login -f
+www-data     197  0.0  0.0  12880  4276 ?        S    19:37   0:00 nginx: worker process
+
+--- Verificação Concluida ---
+=======================================================
+ Top 15 Processos por Consumo de Memoria em: Tue Oct 21 20:00:07 -03 2025
+=======================================================
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         238  0.0  0.1 107028 22656 ?        Ssl  19:38   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          57  0.0  0.0  66828 14916 ?        S<s  19:38   0:00 /usr/lib/systemd/systemd-journald
+systemd+     160  0.0  0.0  21456 12800 ?        Ss   19:38   0:00 /usr/lib/systemd/systemd-resolved
+root           1  0.0  0.0  21764 12504 ?        Ss   19:38   0:00 /sbin/init
+root         183  0.0  0.0 1756096 12288 ?       Ssl  19:38   0:00 /usr/libexec/wsl-pro-service -vv
+joab         345  0.0  0.0  20296 11264 ?        Ss   19:38   0:00 /usr/lib/systemd/systemd --user
+root         180  0.0  0.0  17964  8192 ?        Ss   19:38   0:00 /usr/lib/systemd/systemd-logind
+systemd+     161  0.0  0.0  91024  7680 ?        Ssl  19:38   0:00 /usr/lib/systemd/systemd-timesyncd
+root         104  0.0  0.0  24876  6144 ?        Ss   19:38   0:00 /usr/lib/systemd/systemd-udevd
+syslog       194  0.0  0.0 222508  5632 ?        Ssl  19:38   0:00 /usr/sbin/rsyslogd -n -iNONE
+joab         290  0.0  0.0   6320  5376 pts/0    Ss   19:38   0:00 -bash
+joab         358  0.0  0.0   6072  5120 pts/1    S+   19:38   0:00 -bash
+message+     169  0.0  0.0   9632  4992 ?        Ss   19:38   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         291  0.0  0.0   6820  4608 pts/1    Ss   19:38   0:00 /bin/login -f
+joab         502  0.0  0.0   5132  4480 pts/0    S+   19:54   0:00 nano analisarLOGs.sh
+
+--- Verificação Concluida ---

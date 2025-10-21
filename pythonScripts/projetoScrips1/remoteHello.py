@@ -1,9 +1,9 @@
 import paramiko
 
-ipVM = "192.168.15.23"
+ipVM = "xxx.xxx.xxx.xxx"
 portaVM = 22
-usuarioVM = "joab"
-senhaVM = "NathaliE_1610"
+usuarioVM = "username"
+senhaVM = "password"
 
 client = paramiko.SSHClient()
 client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
